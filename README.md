@@ -1,0 +1,2 @@
+# mypc.local
+Computerlar hisobi
